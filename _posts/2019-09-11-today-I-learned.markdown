@@ -30,4 +30,7 @@ title:  "today I learned"
 - shopify local project
 - firebase
 - scrollMagic js
-- searching framework for the new project (above one)
+- searching
+    - framework for the new project (above one)
+    - doc for project
+    - naming rules
