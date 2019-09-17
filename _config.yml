@@ -19,6 +19,8 @@ texture:
   date_format: "%b %-d, %Y"
   style: blue
   showNav: false
+  social_links:
+    github:  ejayyy
 
 plugins:
   - jekyll-seo-tag

@@ -1,10 +1,12 @@
-{%- if site.texture.analytics_id -%}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.texture.analytics_id }}"></script>
-<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag() { dataLayer.push(arguments); }
-	gtag('js', new Date());
-
-	gtag('config', '{{ site.texture.analytics_id }}');
-</script>
-{%- endif -%}
+<footer>
+	<div class="container">
+		{%- if site.texture.social_links.github -%}
+		<a href="https://github.com/{{ site.texture.social_links.github }}" target="_blank">
+			<i class="fa fa-2x fa-github" aria-hidden="true"></i>
+		</a>
+		{%- endif -%}
+		<a href="https://www.codewars.com/" target="_blank">
+			<img src="https://www.codewars.com/users/ejay0811/badges/micro" />
+		</a>
+	</div>
+</footer>
