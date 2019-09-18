@@ -1,9 +1,0 @@
-https://shopify.github.io/slate/docs/create-a-self-signed-ssl-certificate
-
-write down the bash script on the command in ubuntu env??
-
-doesnot have enough information to verify this certification
--> lauched through ssl-check script 
-- modifyed ipconfig to ifconfig
-
-not enough info???????????????
