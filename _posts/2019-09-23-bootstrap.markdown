@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "oh my css"
+category: "css"
 ---
 ### css selector
 - especially [child's](https://css-tricks.com/useful-nth-child-recipies/)

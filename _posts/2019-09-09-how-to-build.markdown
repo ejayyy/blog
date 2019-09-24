@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "build Jekyll"
+category: "jekyll"
 ---
 `gem install jekyll bundler`
 

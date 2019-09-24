@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "today I learned"
+category: "shopify"
 ---
 ### windows sybsystem
 - install `ubuntu` from MS store (don't reboot yet)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "today I learned"
+category: ["css", "shopify"]
 ---
 ### dropdown menu
 - [hoverable menu](https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_text)

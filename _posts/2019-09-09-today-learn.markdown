@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "today learning"
+category: ["css", "liquid"]
 ---
 ### lazy loading
 - [example](https://css-tricks.com/tips-for-rolling-your-own-lazy-loading/)
