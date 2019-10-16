@@ -251,9 +251,9 @@ footer {
       }
 
       @include fluidType(15px, 17px);
-      transition: background-color 0.3s ease-in;
+      transition: color 0.3s ease-in;
       &:hover {
-        background-color: rgba(#fff, 0.15);
+        color: yellow;
         cursor: pointer;
       }
     }
