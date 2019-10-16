@@ -235,16 +235,20 @@ footer {
   position: absolute;
   bottom: 0px;
   a {
-	  color: inherit;
+    color: inherit;
   }
   ul {
     list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
     li {
       float: left;
+      padding: 10px 25px 10px 0;
       &:not(:first-child) {
         border-left: 0;
+        padding-left: 25px;
       }
-      padding: 10px 25px;
 
       @include fluidType(15px, 17px);
       transition: background-color 0.3s ease-in;
