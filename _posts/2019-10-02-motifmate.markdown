@@ -20,5 +20,9 @@ category: "shopify"
 1. generate a local server
     - they automatically support site through port
     - even URL!
-1. DONE
-    - insanely easy STV...
+1. upload code to server
+    - it takes looooong time
+
+
+- make an empty new theme and upload local code to server and publish to in-service site
+    - I think it's better way to maintenance
