@@ -1,0 +1,5 @@
+---
+layout: post
+---
+### nice sites
+1. [speed check](http://jsben.ch/browse)
