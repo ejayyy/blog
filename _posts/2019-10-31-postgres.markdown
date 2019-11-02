@@ -4,3 +4,12 @@ layout: post
 ### pg_hba.conf
 - `/usr/local/var/postgres/pg_hba.conf`
 - `/System/Volumes/Data/usr/local/var/postgres/pg_hba.conf`
+
+### start
+- `brew tap homebrew/services`
+- `brew services [start/stop/restart] postgresql`
+
+### database
+- `createdb/dropdb [name]`
+- `psql [name]`
+- `exit`
