@@ -1,0 +1,6 @@
+---
+layout: post
+---
+### pg_hba.conf
+- `/usr/local/var/postgres/pg_hba.conf`
+- `/System/Volumes/Data/usr/local/var/postgres/pg_hba.conf`
