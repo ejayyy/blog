@@ -4,6 +4,7 @@ layout: post
 ### pg_hba.conf
 - `/usr/local/var/postgres/pg_hba.conf`
 - `/System/Volumes/Data/usr/local/var/postgres/pg_hba.conf`
+    - 
 
 ### start
 - `brew tap homebrew/services`
@@ -11,5 +12,10 @@ layout: post
 
 ### database
 - `createdb/dropdb [name]`
-- `psql [name]`
-- `exit`
+- `psql [db name] [user name]`
+- `create user [name] with password '[pwd]';`
+- `exit` or `\q`
+
+### check status
+- `\c` : `You are now connected to database "[name]" as user "[name]".`
+- current port : ` select * from pg_settings where name = 'port';`
