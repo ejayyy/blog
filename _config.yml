@@ -18,6 +18,7 @@ texture:
   showNav: false
   social_links:
     github:  ejayyy
+  disqus_shortname: ejay0811
 
 plugins:
   - jekyll-seo-tag
