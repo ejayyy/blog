@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "git"
 ---
 
 ### git multiple user

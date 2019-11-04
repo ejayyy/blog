@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "motifmate"
 category: "shopify"
 ---
 ### set up for local running

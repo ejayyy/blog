@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "today I learned"
 category: ["css", "shopify"]
 ---
 ### dropdown menu

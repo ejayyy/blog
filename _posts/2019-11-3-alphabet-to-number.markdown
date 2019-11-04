@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 'JS'
 ---
 ### transfer alphabet to number
 - `[char].charCodeAt(0)` : a = 97, b = 98....
