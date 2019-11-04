@@ -4,7 +4,6 @@ layout: post
 ### pg_hba.conf
 - `/usr/local/var/postgres/pg_hba.conf`
 - `/System/Volumes/Data/usr/local/var/postgres/pg_hba.conf`
-    - 
 
 ### start
 - `brew tap homebrew/services`
@@ -18,4 +17,4 @@ layout: post
 
 ### check status
 - `\c` : `You are now connected to database "[name]" as user "[name]".`
-- current port : ` select * from pg_settings where name = 'port';`
+- current port : `select * from pg_settings where name = 'port';`
