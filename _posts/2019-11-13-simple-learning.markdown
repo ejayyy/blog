@@ -9,3 +9,6 @@ layout: post
 
 ### String order
 - `variable > 'a'` : bigger than a
+
+### edit ary in ary
+- `data.map(([a, b]) => (condition) ? answer1 : answer2);`
