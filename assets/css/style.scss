@@ -51,46 +51,6 @@
     #green { background-color: mediumseagreen; }
 }
 {%- endif -%}
-// Textures
-.texture-black {
-    background-image: url('{{ site.baseurl }}/assets/textures/black.jpg');
-
-    h2 {
-        color: #999;
-    }
-}
-
-.texture-blue {
-    background-image: url('{{ site.baseurl }}/assets/textures/blue.jpg');
-
-    h2 {
-        color: #ddd;
-    }
-
-    .social i:hover {
-        color: #eee;
-    }
-
-    .post-date {
-        color: #ccc;
-    }
-}
-
-.texture-red {
-    background-image: url('{{ site.baseurl }}/assets/textures/red.jpg');
-}
-
-.texture-purple {
-    background-image: url('{{ site.baseurl }}/assets/textures/purple.jpg');
-}
-
-.texture-green {
-    background-image: url('{{ site.baseurl }}/assets/textures/green.jpg');
-
-    .post-date {
-        color: #ccc;
-    }
-}
 
 .texture-red,
 .texture-purple {

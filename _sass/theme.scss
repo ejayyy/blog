@@ -57,8 +57,8 @@ h4 {
 }
 
 header {
-  // background-size: cover;
-  height: 240px;
+  background-color: cornflowerblue;
+  height: 200px;
   position: relative;
   overflow: hidden;
   color: white;
@@ -176,7 +176,6 @@ footer {
 }
 
 .post-date {
-  color: $gray;
   .icon-calendar {
     margin-right: 6px;
   }
