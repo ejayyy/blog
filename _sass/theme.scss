@@ -48,7 +48,7 @@ h1 {
 
 h2 {
   font-weight: bold;
-  @include fluidType(28px, 32px);
+  @include fluidType(18px, 32px);
 }
 
 h4 {
@@ -202,8 +202,8 @@ footer {
   list-style-type: none;
   padding: 0;
   > li {
-    margin-bottom: 30px;
-    padding-bottom: 20px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
     &:not(:last-child) {
       border-bottom: 1px solid $lightGray;
     }
