@@ -51,22 +51,3 @@
     #green { background-color: mediumseagreen; }
 }
 {%- endif -%}
-
-.texture-red,
-.texture-purple {
-    h2 {
-        color: #ccc;
-    }
-
-    .social i {
-        color: #ddd;
-
-        &:hover {
-            color: lighten(#ddd, 7%);
-        }
-    }
-
-    .post-date {
-        color: #ddd;
-    }
-}
