@@ -1,0 +1,6 @@
+---
+layout: post
+---
+### install modules
+- `npm install`
+- route : `/usr/local/lib/node_modules/npm/lib`
