@@ -3,3 +3,4 @@ layout: post
 ---
 ### nice sites
 1. [speed check](http://jsben.ch/browse)
+1. make a [favicon](https://favicon.io) for every browser
