@@ -10,7 +10,7 @@ layout: post
 - upgrade with remove package if needed : `sudo apt full-upgrade`
 - count files : `ls | wc -l`
 
-### [install](https://laravel.com/docs/7.x/installation) PHP, apache, laravel
+### install PHP, apache, [laravel](https://laravel.com/docs/7.x/installation)
 - `install apache / php : sudo apt install php libapache2-mod-php`
 - `php --ini`
 - `sudo apt install composer`
