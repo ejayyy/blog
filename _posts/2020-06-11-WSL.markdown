@@ -1,6 +1,10 @@
 ---
 layout: post
 ---
+### windows set up
+- search `windows features` > check `windows subsystem for Linux`
+- if you want to use [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10), just enable `Virtual machine platform`
+
 ### mount network drive in WSL
 - to check network drive name (window) : `wmic path win32_mappedlogicaldisk`
 - mount to WSL : `sudo mount -t drvfs '\\[path]\[path]..' /mnt/[name]`
