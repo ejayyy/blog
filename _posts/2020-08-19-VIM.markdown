@@ -1,0 +1,8 @@
+---
+layout: post
+---
+### vim
+- `:set number`
+- `/[search keyword]` and `n`, previous `N`
+- `find [path] -name [keyword]`
+- go to bottom : `:$`

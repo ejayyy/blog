@@ -35,5 +35,5 @@ layout: post
 - `curl https://packages.microsoft.com/config/ubuntu/20.04/prod.list > /etc/apt/sources.list.d/mssql-release.list`
 - `sudo apt-get update`
 - fs.aio-max-nr
-`sudo /opt/mssql/bin/mssql-conf setup` > edition 3 (express) > pwd
-`sqlcmd -S localhost -U SA -P '[pwd]'`
+- `sudo /opt/mssql/bin/mssql-conf setup` > edition 3 (express) > pwd
+- `sqlcmd -S localhost -U SA -P '[pwd]'`
