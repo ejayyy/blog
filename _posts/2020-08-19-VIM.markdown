@@ -4,5 +4,8 @@ layout: post
 ### vim
 - `:set number`
 - `/[search keyword]` and `n`, previous `N`
-- `find [path] -name [keyword]`
+- remove highlight `:noh`
 - go to bottom : `:$`
+
+
+- `find [path] -name [keyword]`

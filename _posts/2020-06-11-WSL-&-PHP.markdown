@@ -15,13 +15,11 @@ layout: post
 - count files : `ls | wc -l`
 
 ### install PHP, apache, [laravel](https://laravel.com/docs/7.x/installation)
-- `install apache / php : sudo apt install php libapache2-mod-php`
+- `sudo apt install -y php libapache2-mod-php`
 - `php --ini`
-- `sudo apt install composer`
-- `sudo apt install php-zip`
+- `sudo apt install -y composer`
 - `composer global require laravel/installer`
 - `composer global about`
-- `sudo apt install phpunit`
 
 ### start laravel
 - `composer create-project --prefer-dist laravel/laravel [name]`
