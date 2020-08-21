@@ -1,0 +1,6 @@
+---
+layout: post
+---
+### agaile
+- [The 14th Annual State of Agile Report](https://stateofagile.com/)
+ 
