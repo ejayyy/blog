@@ -1,8 +1,12 @@
 ---
 layout: post
 ---
-### agaile
+### Agaile
 - [The 14th Annual State of Agile Report](https://stateofagile.com/)
+- Do we need an Agaile even just for maintenance?
 
 ### CodeIgnitor
-- (Laravel vs CI)[https://trends.google.com/trends/explore?date=2010-07-21%202020-08-21&q=%2Fm%2F02qgdkj,%2Fm%2F0jwy148]
+- [Laravel vs CI](https://trends.google.com/trends/explore?date=2010-07-21%202020-08-21&q=%2Fm%2F02qgdkj,%2Fm%2F0jwy148)
+
+### Next & Gatsby
+- Next has a lot of [references](https://nextjs.org/showcase) than gatsby
